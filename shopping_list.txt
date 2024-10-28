@@ -1,4 +1,3 @@
-FIRST LINE EDIT VIA GITHUB
 Fruits and Vegetables:
 Apples
 Bananas
