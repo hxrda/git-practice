@@ -22,4 +22,4 @@ Laundry detergent
 
 Additionals:
 EDIT LAST LINE VIA LOCAL VERSION
-Hello shop from my local computer
+Hello shop from my local computer and hello shop from Github
