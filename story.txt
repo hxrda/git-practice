@@ -16,4 +16,8 @@ Suddenly, the whispers ceased, and a silence as deep as the lake's waters surrou
 
 As he stepped back through, the cool shimmer faded, and Alex found himself once again on the familiar forest path. But now, he clutched the book in his hands—a reminder of the island in the mist, and the mysteries that still waited to be uncovered.
 
+<<<<<<< Updated upstream
 From that day on, the name "Valeria" lingered in his thoughts, a puzzle he felt compelled to solve. The archway had vanished, but the book remained, its shifting pages hinting at secrets that seemed almost within his grasp. And though the forest was still the same, Alex knew he had crossed into a world where the line between reality and memory blurred like mist upon the water.
+=======
+EDIT LOCAL - From that day on, the name "Valeria" lingered in his thoughts, a puzzle he felt compelled to solve. The archway had vanished, but the book remained, its shifting pages hinting at secrets that seemed almost within his grasp. And though the forest was still the same, Alex knew he had crossed into a world where the line between reality and memory blurred like mist upon the water.
+>>>>>>> Stashed changes
