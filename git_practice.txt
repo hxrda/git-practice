@@ -1,2 +1,2 @@
-Some text
+Some text modified on Github
 Some more text added in GitHub
