@@ -1,3 +1,4 @@
 Some text modified on Github
 Some more text added in GitHub
-Greetings from my computer
+Greetings from my computer and from GitHub
+
