@@ -1,0 +1,17 @@
+How can you find out the names and addresses of the remote repositories of 
+a Git project. 
+
+The answer is a command you should run inside the Git project, when a remote 
+has been set. 
+
+Run the command and see that the remote repository address matches 
+your GitHub repository. Add the command and the command output to a remote.txt 
+file and push it to GitHub.
+
+Different wayt to obtain the name & address information of remote repositories
+of a git project:
+
+1.git remote show origin   //requires repo to be reachable over the network
+2.git remote -v
+3.git config --get remote.origin.url
+4.git ls-remote --get-url origin 
